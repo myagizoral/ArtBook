@@ -1,2 +1,2 @@
 # ArtBook
- A simple app for learning 
+ Artbook Java application 
